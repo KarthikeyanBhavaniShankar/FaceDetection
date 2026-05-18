@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+.vscode/
+.DS_Store
+
+sleep_detector_snapshot_*.jpg
+
+face_landmarker.task
